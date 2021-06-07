@@ -1,5 +1,5 @@
 # TGIF-Vue-Access-Live-Public-Data
-Transparent Government In Fact web, now with Vue + Access Live Public Data
+Transparent Government In Fact web, now with Vue + Access Live Public Data API
 
 Get access with Python in cmd
 
@@ -14,3 +14,9 @@ python -m http.server 8000
 http://localhost:8000/home.html
 
 (stop server with control-C in the command shell)
+
+-------------------------------------------------
+
+Alternative 
+
+https://transparentgovernment.herokuapp.com/home.html
